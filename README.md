@@ -33,8 +33,4 @@ Tengo un interés grande en meterme en la ciberseguridad (y su intersección con
 
 ---
 
-## Let's Connect
-
-Feel free to reach out, contribute to any of my projects, or just say hi.
-
-Thanks for visiting!
+Por cualquier duda, consulta o comentario (o si simplemente queres saludar) podes hacerlo sin ningún problema!
