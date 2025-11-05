@@ -1,38 +1,35 @@
-# Hi there
+# Bienvenidos!
 
-Welcome to my GitHub profile, I intend to showcase here both my personal projects and academic work.
+Este es mi github personal, acá voy a estar subiendo proyectos propios y trabajos de la facultad.
 
 ---
 
-##  About Me
+##  Sobre mi
 
-I'm a developer who believes that **quality code** isn't just about functionality — it's about **readability, maintainability**, and **responsibility**.
-I believe Computer Science is much more than just fast coding or "hacking" your way though answers, but rather a science that requires extensive understanding of the foundations of not only a computer internal structure but also how to properly communicate and understand the real life needs and 1:1 correlation with how we model thigs in the software industry. 
+Me gusta programar, aprender y tantear distintos stacks tecnológicos mientras termino la carrera de Ciencias de la Computación en la UBA, fuera de la computadora disfruto las plantas, animales y entrenar.
 
-### What I Value:
-- **Proper Coding Techniques**  
-  Writing clean, efficient, and scalable code with an emphasis on clarity and best practices.
+### Lo que valoro:
+- **Buenas técnicas**  
+  Confio en lo que hago y programo sobre lo que entiendo, no pretendo resolver problemas cuyo dominio desconozco y disfruto cerrar mis programas bien espaciados y comentados. 
   
--  **Good Documentation**  
-  A proper code needs no documentation, as the code becomes the documentation. (But to be fair, keeping a documentation is probably for the best)
+-  **Documentación**  
+  Si bien es un estándar de la industria e innegablemente útil, creo que es importante no depender completamente de la documentación y valorar el conocimiento de la gente que trabaja continuamente sobre el proyecto, los comentarios y la declaratividad del código.
   
--  **Social skills**  
-  Computer science has long been deemed as the science that requires no social skills but I firmly believe that is what causes the most damage to the industry. 
-  It is imperative that we strengthen our social bonds and master the art of clear and efficient communication to ensure a smooth transition between the technical and non-technical aspects of our field. 
+-  **Habilidades blandas**  
+  Si bien las ciencias duras (y en particular las informáticas) no se basan en lo social, no hay peor práctica que no establecer buenos vinculos con nuestros *peers*, saber ser un buen receptor de consejos de gente más experimentada es igual (o mas) valioso que manejar un Tech Stack gigante. A su vez, es fundamental poder comunicar ideas claras y técnicas de manera natural a los distintos grupos no orientados a la programación con los que colaboremos en un proyecto.
+---
+
+## Tech Stack y Herramientas
+
+- Languages: `Python`, `JavaScript`, `C++`, `Shell`, `Assembler`, `Java`, `React Native (Inicial)`, `C`, `SQL`  
+- Tools: `Git`, `VS Code`, `Docker / Docker Compose`, `JWT`, `mongoDB`
+- Frameworks: `Express.js`
 
 ---
 
-## Tech Stack & Tools
+##  Interés actual
 
-- Languages: `Python`, `JavaScript`, `C++`, `Shell`, `Assembler`, `Java`
-- Tools: `Git`, `VS Code`
-- Frameworks: `Node.js`
-
----
-
-##  Current Focus
-
-I have recently taken an interest in cybersecurity and it's relation with databases. I also want to keep doing small side projects with different languages so as to keep a more generalized approach to problem solving. 
+Tengo un interés grande en meterme en la ciberseguridad (y su intersección con el analisis de datos), pero al mismo tiempo disfruto codear proyectos full stack (usando IA para las partes de UX/UI) y siempre intento encontrar nuevas maneras de automatizar / solucionar problemas con los que me encuentro en mi dia a dia! 
 
 ---
 
